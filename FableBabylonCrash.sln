@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FableBabylonCrash", "FableBabylonCrash\FableBabylonCrash.fsproj", "{1471E6C8-9D6D-450B-AA28-5D4C6E2BEF0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1471E6C8-9D6D-450B-AA28-5D4C6E2BEF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1471E6C8-9D6D-450B-AA28-5D4C6E2BEF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1471E6C8-9D6D-450B-AA28-5D4C6E2BEF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1471E6C8-9D6D-450B-AA28-5D4C6E2BEF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F772D535-0200-47CB-AA90-C79A35839837}
+	EndGlobalSection
+EndGlobal
